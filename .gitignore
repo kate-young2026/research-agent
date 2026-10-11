@@ -1,0 +1,14 @@
+.pnpm-store/
+**/node_modules/
+**/.cache/
+**/tests/generated/
+**/*.pdf
+**/*.docx
+**/key.txt
+**/.env
+**/.env.*
+**/*.pem
+**/*.key
+/중학생_국어_AI_완전학습_연구계획서/
+/참고자료/
+/tmp_kci_search.json

@@ -1,0 +1,9 @@
+{
+  "name": "literature-kordoc-parser",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test tests/parser.test.mjs" },
+  "dependencies": { "kordoc": "4.21.22", "csv-parse": "6.1.0" }
+}
